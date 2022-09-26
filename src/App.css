@@ -1,0 +1,18 @@
+body{
+    background-color: #040714;
+    overflow-x: hidden;
+}
+*{
+    box-sizing: border-box;
+    
+}
+h1{
+    color:  rgba(254, 239, 239, 0.993);
+     font-style: oblique;
+     
+}
+
+.plus{
+    display: flex;
+    gap: 20px;
+}
